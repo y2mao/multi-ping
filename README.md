@@ -3,7 +3,7 @@ ping multiple hosts and rank by lantency
 
 # Installation
 ```go
-go get -v githubcom/y2mao/multi-ping
+go get -v github.com/y2mao/multi-ping
 ```
 # Usage
 Create a host list file. e.g. host.txt
